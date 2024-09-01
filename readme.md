@@ -39,25 +39,6 @@ print(a)
 print(type(a))
 ```
 
-## How to Run
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-repo/big-data-computation.git
-    cd big-data-computation
-    ```
-
-2. Install the required libraries:
-    ```sh
-    pip install numpy
-    ```
-
-3. Open the Jupyter Notebook:
-    ```sh
-    jupyter notebook
-    ```
-
-4. Run the notebooks provided in the repository to explore various matrix operations and NumPy array manipulations.
-
 ---
 
-By following the structured approach and utilizing the provided resources, you will gain a comprehensive understanding of using Python for big data computation.
+GUNADARMA UNIVERSITY - 2023 X Webkumal
